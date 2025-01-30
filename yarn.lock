@@ -10533,6 +10533,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"react-icons@npm:^5.4.0":
+  version: 5.4.0
+  resolution: "react-icons@npm:5.4.0"
+  peerDependencies:
+    react: "*"
+  checksum: 10/c900d475c64852b316d16bdc1a436c93e18e0ffb321ebc43a1d8741191baba736e0ef4c6d871399056832b69413cd13b56ae6a18eaa5ad17041df805d803651c
+  languageName: node
+  linkType: hard
+
 "react-is@npm:^16.13.1":
   version: 16.13.1
   resolution: "react-is@npm:16.13.1"
@@ -11995,6 +12004,7 @@ __metadata:
     eslint-config-react-app: "npm:^7.0.1"
     react: "npm:^18.2.0"
     react-dom: "npm:^18.2.0"
+    react-icons: "npm:^5.4.0"
     react-scripts: "npm:5.0.1"
     uuid: "npm:^11.0.5"
     web-vitals: "npm:^2.1.0"
